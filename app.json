@@ -1,5 +1,5 @@
 {
-  "name": "Secktor-Md",
+  "name": "queen sadu",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://camo.githubusercontent.com/14279dac3151a95fca8ec5bebda435d68d62c49f6aa4f30749f541ee985ad21b/68747470733a2f2f7365636b746f7275736572626f742e6f6e72656e6465722e636f6d2f6d61696e2e6a7067",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
@@ -7,11 +7,20 @@
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "Name of Bot Owner",
+  "description": "",
       "value": "Eren Yeager"
   },
   "ALIVE_MESSAGE": {
-    "description": "Alive message for bot",
+    "description": "🆀︎🆄︎🅴︎🅴︎🅽︎ 🆂︎🅰︎🅳︎🆄︎
+
+
+𝙷𝚎𝚕𝚕𝚘𝚠 𝚒𝚖 𝚚𝚞𝚎𝚎𝚗 𝚜𝚊𝚍𝚞 𝚞𝚜𝚎𝚛𝚜 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝,
+𝙳𝚎𝚟𝚘𝚕𝚘𝚙 𝚋𝚢 𝚍𝚒𝚗𝚎𝚜𝚑.
+
+𝚃𝚢𝚙𝚎 𝚒𝚗 𝚖𝚎𝚗𝚞 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚕𝚒𝚜𝚝.
+
+
+𝘜𝘱𝘥𝘢𝘵𝘦 𝘤𝘰𝘮𝘦 𝘸𝘪𝘵𝘩 𝘮𝘳 𝘥𝘪𝘯𝘦𝘴𝘩 𝘴𝘶𝘱𝘱𝘰𝘳𝘵",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
